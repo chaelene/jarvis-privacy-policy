@@ -17,7 +17,7 @@ Jarvis Companion ("the Skill") is a fan-inspired Alexa skill for voice-controlle
 ## Your Rights
 - Access/Delete: No data stored, so N/A.
 - Changes: We'll update this policy for major changes and notify via skill updates.
-- Contact: For questions, email [your-email@example.com].
+- Contact: For questions, email jackymichael22@gmail.com.
 
 We comply with applicable laws (e.g., GDPR, CCPA). No affiliation with Amazon, Marvel, Disney, or API providers—this is an unofficial fan project.
 
